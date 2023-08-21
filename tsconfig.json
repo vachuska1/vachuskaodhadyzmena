@@ -1,0 +1,26 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "esNext",
+        "moduleResolution": "node",
+        "target": "es2017",
+        "noImplicitAny": false,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "declaration": false,
+        "strictNullChecks": true,
+        "jsx": "react",
+        "alwaysStrict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "strictFunctionTypes": true,
+        "noErrorTruncation": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+    }
+}
+//kontrola z 3.6.2022 / pridano "baseUrl": "src",
+    //"paths": {
+      //  "*": ["src/*"]
+      //}, a smazano
